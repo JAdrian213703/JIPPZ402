@@ -204,6 +204,7 @@ while (index < numbers.Length)
 }
 */
 /* zad 3 */
+/*
 using System;
 using System.Collections.Generic;
 
@@ -228,3 +229,4 @@ foreach (string fruit in fruits)
 {
     Console.WriteLine(fruit);
 }
+*/
