@@ -230,3 +230,12 @@ foreach (string fruit in fruits)
     Console.WriteLine(fruit);
 }
 */
+/*
+using System;
+using JIPP2M;
+Human osoba = new Human();
+osoba.FirstName = "Jan";
+osoba.LastName = "Nowak";
+osoba.SayHello();   
+*/
+
